@@ -1,0 +1,32 @@
+body {
+        background-image: url(./images/header.jpg);
+}
+
+.container-1 {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: larger;
+color: white;
+}
+
+.brand-name {
+color:darkgrey ;
+font-size:25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar {
+text-align: center;
+    position: relative;
+    z-index: 999;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 500;
+    font-size: 25px;
+    background-color:black ;
+    
+}
+.nav-link{
+    color: white;
+}
